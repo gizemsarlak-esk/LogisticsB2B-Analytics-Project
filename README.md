@@ -1,5 +1,6 @@
 # LogisticsB2B-Analytics-Project
 End-to-end logistics analytics project using SQL and Power BI. Includes data preparation, KPI analysis, and interactive dashboard. Supplier data anonymized for confidentiality.
+
 🔹 Project Overview
 
 This project simulates a B2B logistics analytics case study, designed to showcase an end-to-end data pipeline from SQL data preparation to Power BI visualization.
